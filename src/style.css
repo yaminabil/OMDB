@@ -1,3 +1,20 @@
 body {
-    background-color : red;
+   
+    background: radial-gradient(#a0a0a0, #5e65bb);
+    text-align: center;
+    /* border: solid black; */
+    height: 100vw;
+    font-family: 'Open Sans', sans-serif;
 }
+h1 {
+    color:  white ;
+}
+
+input {
+    margin: 2px;
+    font-size: larger;
+}
+a {
+    text-decoration: none;
+}
+
